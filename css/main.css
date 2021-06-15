@@ -26,6 +26,8 @@ a:hover {
 
 h1 {
     font-size: 3em;
+    border-top: 1px solid #d5d5d5;
+    border-bottom: 1px solid #d5d5d5;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
