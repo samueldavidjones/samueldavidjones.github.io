@@ -25,18 +25,18 @@ a:hover {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 2.8em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.4em;
     padding-right: 0.7cm;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 p {
-    font-size: 1.5em;
+    font-size: 1.3em;
     padding-top: 0.3cm;
     line-height: 1.4em;
     color: #333;
