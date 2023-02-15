@@ -4,7 +4,7 @@ body {
 }
 
 nav ul, footer ul {
-    font-family:'Times New Roman';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -13,6 +13,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    text-align: right; 
 }
 
 a {
@@ -26,13 +27,13 @@ a:hover {
 
 h1 {
     font-size: 2.8em;
-    font-family:'Times New Roman';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 h2 {
     font-size: 1.4em;
     padding-right: 0.7cm;
-    font-family:'Times New Roman';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 p {
