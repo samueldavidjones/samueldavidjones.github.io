@@ -57,14 +57,12 @@ footer {
 }
 
 ul {
-  font-size: 1.6em;
   list-style-type: disc;
   margin-left: 10px; /* Indentation for the list */
 }
 
 li {
   margin-bottom: 10px;
-  font-size: 1.6em; /* Change font size for the posts list */
   font-family: "Times New Roman", Times, serif;
 }
 
