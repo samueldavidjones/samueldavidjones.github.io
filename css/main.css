@@ -68,26 +68,14 @@ ul.posts li {
 
 img {
     display: block;
+    max-width: 300px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
     border: 1px solid;
-    width: 300px; /* Ensures the image is square */
-    height: 300px;
-    object-fit: cover; /* Ensures the image is proportional */
 }
 
 br {
     line-height: 150%;
     font-family: "Times New Roman", Times, serif;
-}
-
-/* New styles for text and image layout */
-.container {
-    display: flex; /* Positions elements side by side */
-    align-items: center; /* Aligns items vertically */
-    gap: 20px; /* Adds space between image and text */
-}
-
-.container .text {
-    font-size: 1.4em; /* Adjust text size */
-    color: #333; /* Text color */
-    max-width: 400px; /* Optional: limit text width */
 }
