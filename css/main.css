@@ -75,6 +75,12 @@ img {
     padding: 20px; /* Adds white space inside the border */
     background-color: white; /* Ensures the padding is white */
     box-sizing: border-box; /* Includes padding and border in total size */
+    transition: all 0.3s ease; /* Smooth transition for the hover effect */
+}
+
+img.hover-image:hover {
+    content: url("https://samueldavidjones.github.io/images/sam_1_08.jpg");
+    border-color: #666; /* Optional: Change border color on hover */
 }
 
 br {
