@@ -41,7 +41,7 @@ h2 {
 }
 
 p {
-    font-size: 1.8em;
+    font-size: 1.6em;
     padding-top: 0.3cm;
     line-height: 1.4em;
     color: #333;
@@ -57,8 +57,9 @@ footer {
 }
 
 ul {
-  list-style-type: disc; /* Default bullet points */
-  margin-left: 20px; /* Indentation for the list */
+  font-size: 1.6em;
+  list-style-type: disc;
+  margin-left: 10px; /* Indentation for the list */
 }
 
 li {
