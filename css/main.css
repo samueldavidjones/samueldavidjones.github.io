@@ -66,6 +66,15 @@ footer {
     font-weight: normal;
 }
 
+ul {
+  list-style-type: disc; /* Default bullet points */
+  margin-left: 20px; /* Indentation for the list */
+}
+
+li {
+  margin-bottom: 10px; /* Space between each list item */
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
