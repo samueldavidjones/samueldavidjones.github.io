@@ -33,10 +33,10 @@ h1 {
 }
 
 h2 {
-    font-size: 1.4em;
+    font-size: 1.8em;
     padding-right: 0.7cm;
     font-family: "Times New Roman", Times, serif;
-    font-weight: bold; /* Change to bold */
+    font-weight: normal; /* Change to bold */
     text-decoration: underline; /* Add underline */
 }
 
