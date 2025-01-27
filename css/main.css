@@ -36,7 +36,8 @@ h2 {
     font-size: 1.4em;
     padding-right: 0.7cm;
     font-family: "Times New Roman", Times, serif;
-    font-weight: normal;
+    font-weight: bold; /* Change to bold */
+    text-decoration: underline; /* Add underline */
 }
 
 p {
