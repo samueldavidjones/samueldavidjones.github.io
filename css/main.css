@@ -69,8 +69,8 @@ ul.posts li {
 img {
     display: block;
     border: 1px solid;
-    width: 500px; /* Ensures the image is square */
-    height: 500px;
+    width: 350px; /* Ensures the image is square */
+    height: 350px;
     object-fit: cover; /* Ensures the image is proportional */
 }
 
