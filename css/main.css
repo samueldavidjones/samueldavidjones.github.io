@@ -1,10 +1,11 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family: "Times New Roman", Times, serif;
 }
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: "Times New Roman", Times, serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -19,6 +20,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
+    font-family: "Times New Roman", Times, serif;
 }
 
 a:hover {
@@ -27,13 +29,13 @@ a:hover {
 
 h1 {
     font-size: 2.8em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: "Times New Roman", Times, serif;
 }
 
 h2 {
     font-size: 1.4em;
     padding-right: 0.7cm;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: "Times New Roman", Times, serif;
 }
 
 p {
@@ -41,31 +43,36 @@ p {
     padding-top: 0.3cm;
     line-height: 1.4em;
     color: #333;
+    font-family: "Times New Roman", Times, serif;
 }
 
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: 1.3em;
+    font-family: "Times New Roman", Times, serif;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    font-family: "Times New Roman", Times, serif;
 }
 
 ul.posts li {
     list-style: none;
+    font-family: "Times New Roman", Times, serif;
 }
 
 img {
     display: block;
-    max-width:300px;
-    max-height:150px;
+    max-width: 300px;
+    max-height: 150px;
     width: auto;
     height: auto;
     border: 1px solid;
 }
 
 br {
-        line-height: 150%;
-     }
+    line-height: 150%;
+    font-family: "Times New Roman", Times, serif;
+}
