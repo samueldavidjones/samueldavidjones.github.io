@@ -40,10 +40,20 @@ h2 {
     text-decoration: underline; /* Add underline */
 }
 
-p {
+p1 {
     font-size: 1.4em;
     padding-top: 0.3cm;
     line-height: 1.4em;
+    color: #333;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: normal;
+}
+
+p2 {
+    font-size: 1.4em;
+    padding-top: 0cm;
+    line-height: 1.4em;
+    padding-bottom: 0;
     color: #333;
     font-family: "Times New Roman", Times, serif;
     font-weight: normal;
