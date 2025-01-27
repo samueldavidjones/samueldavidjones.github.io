@@ -79,7 +79,7 @@ img {
 }
 
 img.hover-image:hover {
-    content: url("https://samueldavidjones.github.io/images/sam_1_08.jpg");
+    content: url("https://samueldavidjones.github.io/images/sam_1_04.jpg");
     border-color: #666; /* Optional: Change border color on hover */
 }
 
