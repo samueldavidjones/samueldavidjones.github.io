@@ -63,7 +63,9 @@ ul {
 }
 
 li {
-  margin-bottom: 10px; /* Space between each list item */
+  margin-bottom: 10px;
+  font-size: 1.6em; /* Change font size for the posts list */
+  font-family: "Times New Roman", Times, serif;
 }
 
 ul.posts { 
