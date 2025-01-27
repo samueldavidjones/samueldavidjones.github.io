@@ -71,7 +71,6 @@ img {
     width: 300px; /* Keeps the image square */
     height: 300px;
     object-fit: cover; /* Ensures the image is proportional */
-    border: 1px solid;
     padding: 20px; /* Adds white space inside the border */
     background-color: white; /* Ensures the padding is white */
     box-sizing: border-box; /* Includes padding and border in total size */
