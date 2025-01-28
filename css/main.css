@@ -70,8 +70,7 @@ li {
 }
 
 footer ul li {
-  margin-top: 1px;
-  font-size: 1.3em; /* Matches the footer font size */
+  font-size: 1.3em;
 }
 
 ul.posts { 
