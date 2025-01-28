@@ -67,6 +67,10 @@ li {
   font-family: "Times New Roman", Times, serif;
 }
 
+footer ul li {
+  font-size: 1.3em; /* Matches the footer font size */
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
