@@ -85,8 +85,8 @@ ul.posts li {
 
 img {
     display: block;
-    width: 375px; /* Keeps the image square */
-    height: 375px;
+    width: 350px; /* Keeps the image square */
+    height: 350px;
     object-fit: cover; /* Ensures the image is proportional */
     padding: 20px; /* Adds white space inside the border */
     background-color: white; /* Ensures the padding is white */
