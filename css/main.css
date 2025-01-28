@@ -50,7 +50,7 @@ p {
 }
 
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 10px solid #d5d5d5;
     font-size: 1.3em;
     font-family: "Times New Roman", Times, serif;
     font-weight: normal;
@@ -62,7 +62,6 @@ ul {
 }
 
 li {
-  margin-bottom: 10px;
   font-size: 1.6em;
   font-family: "Times New Roman", Times, serif;
 }
